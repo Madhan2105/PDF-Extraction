@@ -1,0 +1,7 @@
+# Folder to ignored
+env/
+DataFiles/
+
+# files to be ignored
+.env
+
